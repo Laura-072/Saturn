@@ -1,2 +1,3 @@
 Robot 
+I can show you a star
 AI
